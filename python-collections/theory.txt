@@ -1,0 +1,18 @@
+ Se é uma coleção, são vários elementos (mais de um elemento pelo menos)
+
+ Python programming language has four collection data types- 
+
+    LIST = [] -> sequência
+    mutable
+
+    TUPLE = ()
+    * A tuple is a collection which is ordered and unchangeable.
+
+    SET = {"apple", "banana", "cherry"}
+    * A set is a collection which is unordered, unchangeable*, and unindexed
+
+
+    DICTIONARY = {'a':b}
+    * Dictionaries are used to store data values in key:value pairs.
+   
+Lists and tuples are standard Python data types that store values in a sequence. Sets are another standard Python data type that also store values. The major difference is that sets, unlike lists or tuples, cannot have multiple occurrences of the same element and store unordered values.

@@ -9,7 +9,10 @@
     * A tuple is a collection which is ordered and unchangeable.
 
     SET = {"apple", "banana", "cherry"}
-    * A set is a collection which is unordered, unchangeable*, and unindexed
+    * A set is a collection which is unordered, and unindexed
+    acesso sequencial nao é importante (ordem nao importa)
+    conjunto nao possui indexaçao {}[1] -> da erro
+    mutavel -> exceto se tiver um frozenset()
 
 
     DICTIONARY = {'a':b}

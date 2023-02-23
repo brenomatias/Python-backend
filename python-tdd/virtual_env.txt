@@ -18,7 +18,7 @@ For activation you can go to the venv your virtualenv directory by cd venv.
     Then on Windows, type dir (on unix, type ls). You will get 5 folders include, Lib, Scripts, tcl and 60
 
     Now type '.\Scripts\activate' to activate your virtualenv venv.
-    na rauz : '.\venv\Scripts\activate' 
+    na raiz : '.\venv\Scripts\activate' 
 
     Your prompt will change to indicate that you are now operating within the virtual environment. It will look something like this (venv)user@host:~/venv$.
 
